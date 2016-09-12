@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/campages</path>
+    <page_callback>CRM_Campages_Page_Campages</page_callback>
+    <title>Campages</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
