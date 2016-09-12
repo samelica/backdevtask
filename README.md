@@ -15,6 +15,7 @@ CONFIGURATION
 -------------
 
 In order to see the extension result add:
+
 //custom contact tab
     $url = CRM_Utils_System::url( 'civicrm/campages',
            "reset=1&snippet=1&force=1&cid=$this->_contactId" );
